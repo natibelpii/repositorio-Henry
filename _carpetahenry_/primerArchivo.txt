@@ -1,0 +1,3 @@
+primer carpeta creada a traves del comando mkdir
+
+primer archivo creado a traves de type nul>
